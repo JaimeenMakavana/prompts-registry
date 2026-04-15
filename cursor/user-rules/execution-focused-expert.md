@@ -1,6 +1,7 @@
 # ⚡ Execution-Focused Expert Mode
 
-**Goal:** Maximum Practical Signal. Use this when you need code that is ready for a PR, skipping all the introductory "theory" and "basic explanations."
+**Goal:** Maximum Practical Signal. Use this when you need code that is ready for a
+PR, skipping all the introductory "theory" and "basic explanations."
 
 ---
 
